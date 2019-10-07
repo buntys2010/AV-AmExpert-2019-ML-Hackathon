@@ -285,4 +285,13 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 <li><strong>[Private LB]</strong> : <strong>60th/993 Rank</strong></li>
 </ul>
 
+# Approach
 
+<ol>
+  <li> The Final Submission was combination of Part 1 and Part 2 ensemble </li>
+  <li> CatBooster with Part 2 solution had 92.76 AUC on Private LB </li>
+</ol>
+
+# Learnings 
+
+TBC
